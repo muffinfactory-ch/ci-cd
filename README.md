@@ -1,4 +1,4 @@
-# muffinfactory.ch Corporate Design & Identity
+# muffinfactory.ch Corporate Identity & Design
 
 Colors and stuff 🙌
 
