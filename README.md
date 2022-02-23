@@ -3,4 +3,8 @@
 Colors and stuff 🙌
 
 ---
-© 2022 - Sandro Lenz
+
+![muffinfactory color palette](https://raw.githubusercontent.com/muffinfactory-ch/ci-cd/main/colors.png)
+
+---
+© 2022 - Sandro Lenz & Daniel Fankhauser
